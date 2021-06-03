@@ -5,7 +5,14 @@
 ![Project preview](.github/tela.png)
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using cutting edge front-end technologies.
+
+
+- [ReactJS](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Firebase](https://console.firebase.google.com/)
+
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
