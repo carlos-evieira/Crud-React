@@ -1,5 +1,5 @@
 <h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
+  An app to performs all CRUD functions.
 </h4>
 
 ![Project preview](.github/tela.png)
