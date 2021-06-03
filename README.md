@@ -1,3 +1,8 @@
+<h4 align="center">
+  Podcastr is a platform built for podcast broadcasting.
+</h4>
+
+![Project preview](.github/tela.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
