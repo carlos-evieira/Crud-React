@@ -1,0 +1,22 @@
+
+ html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-size: 62,5% ;
+} 
+
+.button {
+  padding: 10px 0 !important;
+  margin: 0;
+}
+
+div.jumbotron{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  height: 30px;
+}
+
+
